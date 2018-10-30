@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1540852393 source:c:\users\qbute\documents\entrainement\ogre bouloteur\foret.c
+	"foret.h"
+
+1540901361 c:\users\qbute\documents\entrainement\ogre bouloteur\foret.h
+	"ogrebouloteur.h"
+	"enfant.h"
+
+1540848651 source:c:\users\qbute\documents\entrainement\ogre bouloteur\main.c
+	<stdio.h>
+	<stdlib.h>
+	"foret.h"
+
+1540850456 c:\users\qbute\documents\entrainement\ogre bouloteur\enfant.h
+	"ogrebouloteur.h"
+
+1540900589 source:c:\users\qbute\documents\entrainement\ogre bouloteur\enfant.c
+	"enfant.h"
+
+1540901679 c:\users\qbute\documents\entrainement\ogre bouloteur\ogrebouloteur.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
